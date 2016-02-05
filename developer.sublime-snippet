@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+mail:  Dev\$ArT1@3
+skype: Dev\$ArT1@3
+developer: Dev\$Art!2#7
+od: 	MoNeY&*^ArT123
+gm: Mail\$Client08*
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>developer</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

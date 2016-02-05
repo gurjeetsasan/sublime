@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"3024 Color Scheme",
+		"Additional PHP Snippets",
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AndyPHP",
+		"AriaTemplates Snippets",
+		"AutoSpell",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Scheme - Dusk",
+		"Color Scheme - Gray Matter",
+		"Color Scheme - Yotsuba",
+		"Color Schemes by carlcalderon",
+		"ColorPicker",
+		"Emmet",
+		"FileDiffs",
+		"Google Spell Check",
+		"HighlightWords",
+		"jQuery Snippets pack",
+		"Package Control",
+		"PHP Code Coverage",
+		"PHPIntel",
+		"Pretty JSON",
+		"Search WordPress Codex or QueryPosts",
+		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phplint",
+		"Super Calculator",
+		"Theme - Centurion",
+		"Theme - Flatgrammer",
+		"Theme - Spaceblack",
+		"Trimmer"
+	],
+	"repositories":
+	[
+		"https://github.com/SublimeLinter/SublimeLinter-php.git"
+	]
+}
